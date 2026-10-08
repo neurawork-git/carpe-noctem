@@ -1,0 +1,10 @@
+{
+  "name": "carpe-noctem",
+  "version": "0.5.0",
+  "license": "Apache-2.0",
+  "description": "Carpe Noctem — autonome Nächte für Claude Code, risikogetrieben vorbereitet. Risiko heißt: die Wahrscheinlichkeit, dass ein Paket einen Menschen braucht (Permission, Login, Freigabe, Urteil). Die Vorbereitung inventarisiert diese Grenzen per Pre-mortem und Trockenlauf und klärt sie, solange der Mensch wach ist; ein Gate startet die Nacht erst danach. Nachts treibt ein Stop-Hook die Pakete (Risiko zuerst), Rückfragen und Permission-Dialoge werden abgelehnt und als Grenze protokolliert, wartende Pakete melden sich über wählbare Kanäle (md-Datei oder ntfy), Antworten kommen über eine Inbox zurück. Abnahme über Prüfbefehl, geschützte Richter-Dateien und optional Jev als unabhängigen Richter. Morgens ein Bericht mit Ampel, Laufzeit, Abbruchgrund und „Jetzt du“ ganz oben.",
+  "author": {
+    "name": "Neurawork GmbH",
+    "url": "https://github.com/neurawork-git"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "carpe-noctem",
+  "description": "Autonome Nächte für Claude Code — vorbereitet entlang des einzigen Risikos, das eine Nacht nicht selbst lösen kann: dass sie einen Menschen braucht.",
+  "owner": {
+    "name": "Neurawork GmbH",
+    "url": "https://github.com/neurawork-git"
+  },
+  "plugins": [
+    {
+      "name": "carpe-noctem",
+      "source": "./plugins/carpe-noctem",
+      "description": "Vorbereitung mit Pre-mortem und Grenz-Trockenlauf, Gate vor dem Start, nachts Risiko zuerst mit Stop-Hook, Wartebank statt Abbruch, Meldungen per md-Datei oder ntfy, geschützte Richter-Dateien, Morgenbericht mit „Jetzt du“ oben.",
+      "category": "productivity"
+    }
+  ]
+}
