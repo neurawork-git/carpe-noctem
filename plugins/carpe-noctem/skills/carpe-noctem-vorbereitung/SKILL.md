@@ -1,6 +1,6 @@
 ---
 name: carpe-noctem-vorbereitung
-description: Vorbereitung einer autonomen Carpe-Noctem-Nacht — Auftrag in messbare Pakete zerlegen, Pre-mortem, jede Stelle finden, an der die Nacht einen Menschen bräuchte (Permission, Login, Freigabe, Urteil, externer Dienst), sie per Trockenlauf berühren und klären, solange der Mensch wach ist, Fragen gebündelt stellen, nach Restrisiko ordnen und erst über das Gate starten. Zu verwenden, bevor ein Agent stundenlang unbeaufsichtigt arbeiten soll. Triggert bei: Carpe Noctem, Nachtschicht, über Nacht laufen lassen, autonom bis morgen, arbeite das alleine ab, mission.md, unbeaufsichtigt, Ralph-Loop.
+description: "Vorbereitung einer autonomen Carpe-Noctem-Nacht — Auftrag in messbare Pakete zerlegen, Pre-mortem, jede Stelle finden, an der die Nacht einen Menschen bräuchte (Permission, Login, Freigabe, Urteil, externer Dienst), sie per Trockenlauf berühren und klären, solange der Mensch wach ist, Fragen gebündelt stellen, nach Restrisiko ordnen und erst über das Gate starten. Zu verwenden, bevor ein Agent stundenlang unbeaufsichtigt arbeiten soll. Triggert bei: Carpe Noctem, Nachtschicht, über Nacht laufen lassen, autonom bis morgen, arbeite das alleine ab, mission.md, unbeaufsichtigt, Ralph-Loop."
 ---
 
 # Carpe Noctem — Vorbereitung

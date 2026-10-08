@@ -1,6 +1,6 @@
 ---
 name: carpe-noctem-nacht
-description: Arbeitsweise während einer laufenden Carpe-Noctem-Nacht — eine Runde ein Paket in Risiko-Reihenfolge, Stand aus dem Ledger, an Grenzen auf die Wartebank statt blockieren, Nachrichten des Menschen aus der Inbox umsetzen, Abnahme über Prüfbefehl und Richter statt Selbstlob, Wache statt Feierabend, Übergabe mit „Jetzt du“ oben. Zu verwenden, sobald eine Nacht aktiv ist oder der Stop-Hook zum Weiterarbeiten auffordert. Triggert bei: Carpe Noctem aktiv, Nachtschicht aktiv, Stop-Hook blockt, Rückfrage gesperrt, Permission abgelehnt, Wache, Schichtende, cn.py.
+description: "Arbeitsweise während einer laufenden Carpe-Noctem-Nacht — eine Runde ein Paket in Risiko-Reihenfolge, Stand aus dem Ledger, an Grenzen auf die Wartebank statt blockieren, Nachrichten des Menschen aus der Inbox umsetzen, Abnahme über Prüfbefehl und Richter statt Selbstlob, Wache statt Feierabend, Übergabe mit „Jetzt du“ oben. Zu verwenden, sobald eine Nacht aktiv ist oder der Stop-Hook zum Weiterarbeiten auffordert. Triggert bei: Carpe Noctem aktiv, Nachtschicht aktiv, Stop-Hook blockt, Rückfrage gesperrt, Permission abgelehnt, Wache, Schichtende, cn.py."
 ---
 
 # Carpe Noctem — die Nacht
